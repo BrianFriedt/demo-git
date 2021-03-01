@@ -1,0 +1,3 @@
+today is Monday
+tomorrow is Tuesday
+Wednesday follows Tuesday
